@@ -1,0 +1,623 @@
+/* section first start */
+header{
+    background-color: #ecf6fe;
+}
+header .container{
+    max-width: 1170px;
+}
+#one p{
+    font-size: 15px;
+line-height: 35px;
+color: #008aff;
+font-weight: 300;
+font-family: "Josefin Sans";
+
+}
+
+#first .container{
+    max-width: 1170px;
+    position: relative;
+}
+
+
+#text{
+    font-size: 33px;
+color: #008aff;
+font-weight: 300;
+font-family: "Josefin Sans";
+margin-top: 195px;
+
+}
+#first .container ul{
+    position: absolute;
+    top: 4px;
+    right: 10px;
+    border-radius: 14px;
+}
+#first {
+    background-image: url(../img/IMAGE.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 220px;
+}
+#first img{
+   margin-top: 40px; 
+
+}
+#first ul li{
+    margin-top: 40px;
+}
+#non{
+    background-color: #ffe824;
+}
+#lorem h1{
+    font-size: 68px;
+color: #13287e;
+font-weight: 400;
+font-family: "Josefin Sans";
+margin-top: 35px;
+
+
+}
+
+#lorem p{
+    width: 675px;
+height: 34px;
+font-size: 20px;
+line-height: 35px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+margin-top: 50px;
+
+}
+#lorem button{
+    width: 200px;
+    
+    border-radius: 30px;
+    background-color: #ffe824;
+    padding: 15px;
+    border: none;
+    font-size: 14px;
+color: #474747;
+font-weight: 400;
+font-family: "Josefin Sans";
+margin-top: 40px;
+
+}
+/* section first end */
+/* section second start */
+#second{
+    padding-bottom: 170px;
+    background-color: #ffff;
+}
+#second .container{
+    max-width: 1170px;
+}
+#second h1{
+    font-size: 33px;
+color: #008aff;
+font-weight: 400;
+font-family: "Josefin Sans";
+margin-left: 140px;
+margin-top: 50px;
+
+}
+#second img{
+    margin-top: 60px;
+}
+#second p{
+    font-size: 20px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+
+}
+#lorem1{
+    width: 515px;
+height: 70px;
+font-size: 20px;
+line-height: 35px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+margin-top: 55px;
+
+}
+
+
+#second ul{
+    width: 227px;
+height: 156px;
+font-size: 20px;
+line-height: 35px;
+color: #008aff;
+font-weight: 300;
+font-family: "Josefin Sans";
+margin-top: 60px;
+}
+#second button{
+    width: 200px;
+    font-size: 14px;
+color: #474747;
+font-weight: 400;
+font-family: "Josefin Sans";
+    margin-top: 45px;
+    background-color: #ffe824;
+    border: none;
+    border-radius: 35px;
+    height: 60px;
+    margin-left: 138px;
+    
+}
+/* section second end  */
+/* section three start */
+#three{
+    padding-top: 170px;
+    padding-bottom: 220px;
+}
+#three span{
+    font-size: 33px;
+color: #13287e;
+font-weight: 400;
+font-family: "Josefin Sans";
+margin-left: 397px;
+text-align: center;
+
+}
+
+#three .container{
+    max-width: 1170px;
+}
+#three img{
+    margin-left: 87px
+}
+#three .row{
+    margin-top: 110px;
+    
+}
+#three h1{
+    font-size: 28px;
+color: #13287e;
+font-weight: 400;
+font-family: "Josefin Sans";
+margin-top: 45px;
+margin-left: 30px;
+
+}
+#three p{
+    width: 264px;
+height: 58px;
+font-size: 19px;
+line-height: 33px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+text-align: center;
+margin-top: 45px;
+}
+/* section three end  */
+/* section four start */
+#four {
+    background-image: url(../img/Rectangle\ 6\ \(3\).png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+}
+#four .container{
+    max-width: 1170px;
+    padding-bottom: 65px;
+    
+}
+#four h1{
+    font-size: 33px;
+color: #13287e;
+font-weight: 400;
+font-family: "Josefin Sans";
+padding-top: 75px;
+text-align: center;
+}
+#par{
+    width: 675px;
+height: 86px;
+font-size: 20px;
+line-height: 35px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+text-align: center;
+margin-top: 60px;
+margin-left: 238px;
+
+
+}
+
+#ellipse img{
+    margin-top: 45px;
+    margin-left: 500px;
+}
+#ellipse h1{
+    font-size: 19px;
+line-height: 23px;
+color: #f7b74d;
+font-weight: 400;
+font-family: "Josefin Sans";
+text-align: center;
+margin-top: 45px;
+
+}
+#ellipse p{
+    font-size: 17px;
+line-height: 23px;
+color: #727171;
+font-weight: 400;
+font-family: "Josefin Sans";
+text-align: center;
+
+}
+/* section four end  */
+/* section five start */
+#five .container{
+    max-width: 1170px;
+}
+#five{
+    background-color: #ffff;
+    padding-bottom: 210px;
+}
+#five p{
+    width: 675px;
+height: 51px;
+font-size: 20px;
+line-height: 35px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+text-align: center;
+margin-top: 50px;
+margin-left: 21%
+
+}
+#five h1{
+    font-size: 33px;
+color: #13287e;
+font-weight: 400;
+font-family: "Josefin Sans";
+text-align: center;
+padding-top: 210px;
+}
+#five h2{
+    font-size: 26px;
+color: #474747;
+font-weight: 400;
+font-family: "Josefin Sans";
+
+margin-left: 90px;
+margin-top: 25px;
+}
+#five h3{
+    font-size: 119px;
+color: #008aff;
+font-weight: 600;
+margin-left: 93px;
+}
+#five h4{
+    font-size: 15px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+
+margin-left: 128px;
+}
+#five h5{
+    width: 283px;
+height: 156px;
+font-size: 17px;
+line-height: 35px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+text-align: center;
+margin-top: 35px;
+margin-left: 15px;
+}
+#five button{
+    width: 219px;
+height: 67px;
+border-radius: 34px;
+background-color: #ffe824;
+border: none;
+text-decoration: none;
+
+margin-left: 45px;
+}
+
+
+#five .col-4{
+    width: 340px;
+    height: 529px;
+    border-radius: 13px;
+    filter: drop-shadow(0px 16px 34px rgba(179,179,179,0.15));
+    background-color: #ffffff;
+    border: 0.5px solid #ebebeb;
+    justify-content: space-between;
+    
+   
+}
+
+#five .row{
+    position: relative;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+#usd{
+    font-size: 24px;
+color: #474747;
+font-weight: 400;
+font-family: "Josefin Sans";
+    position: absolute;
+    top: 88px;
+    left: 96px;
+}
+#d5{
+    font-size: 24px;
+color: #474747;
+font-weight: 400;
+font-family: "Josefin Sans";
+    position: absolute;
+    right: 83px;
+    top: 88px;
+}
+#nom{
+    font-size: 24px;
+    color: #474747;
+    font-weight: 400;
+    font-family: "Josefin Sans";
+        position: absolute;
+        top: 88px;
+        left: 93px;
+}
+#nol{
+    font-size: 24px;
+    color: #474747;
+    font-weight: 400;
+    font-family: "Josefin Sans";
+        position: absolute;
+        right: 100px;
+        top: 88px;
+}
+/* section five end */
+/* section six start */
+#six .container{
+    max-width: 1170px;
+}
+#six{
+    background-image: url(../img/22.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 85px;
+    position: relative;
+}
+#six img{
+    margin-left: 500px;
+   
+}
+#six .name{
+    position: relative;
+}
+#six span{
+    font-size: 44px;
+letter-spacing: 1px;
+line-height: 38px;
+color: #ffffff;
+font-weight: 600;
+font-family: "Josefin Sans";
+text-align: center;
+filter: drop-shadow(3.277px 2.294px 1px rgba(0,0,0,0.16));
+position: absolute;
+top: 10px;
+right: 10px;
+}
+#six h1{
+
+    font-size: 68px;
+color: #13287e;
+font-weight: 600;
+font-family: "Josefin Sans";
+text-align: center;
+padding-top: 215px;
+}
+#six p{
+    width: 675px;
+height: 52px;
+font-size: 20px;
+line-height: 35px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+margin-left: 250px;
+margin-top: 70px;
+}
+#six button{
+    width: 219px;
+height: 67px;
+border-radius: 33px;
+background-color: #ffe824;
+margin-top: 50px;
+border: none;
+align-items: center;
+font-size: 14px;
+color: #474747;
+font-weight: 400;
+font-family: "Josefin Sans";
+margin-left: 460px;
+}
+/* section six end  */
+/* section seven start */
+#seven .container{
+    max-width: 1170px;
+}
+#seven .row{
+    margin-top: 55px;
+    padding-bottom: 180px;
+}
+#seven h1{
+    font-size: 33px;
+color: #13287e;
+font-weight: 400;
+font-family: "Josefin Sans";
+text-align: center;
+padding-top: 210px;
+}
+#seven p{
+    width: 675px;
+height: 51px;
+font-size: 20px;
+line-height: 35px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+margin-top: 60px;
+margin-left: 280px;
+}
+#seven h2{
+    width: 374px;
+height: 52px;
+font-size: 26px;
+color: #13287e;
+font-weight: 300;
+font-family: "Josefin Sans";
+margin-top: 60px;
+}
+#seven h3{
+    width: 357px;
+height: 51px;
+font-size: 20px;
+line-height: 35px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+margin-top: 30px;
+}
+#seven button{
+    margin-top: 30px;
+    border: none;
+    background-color: #ffff;
+    font-size: 12px;
+    line-height: 35px;
+    text-decoration: underline;
+    color: #008aff;
+    font-weight: 300;
+    font-family: "Josefin Sans";
+
+}
+#seven ul {
+    width: 680px;
+    margin-left: 160px;
+    padding-bottom: 35px;
+}
+/* section seven end */
+/* section last start */
+#last{
+    padding-bottom: 60px;
+}
+#last1{
+    width: 219px;
+height: 67px;
+border-radius: 34px;
+background-color: #ffe824;
+font-size: 14px;
+color: #474747;
+font-weight: 400;
+font-family: "Josefin Sans";
+margin-top: 40px;
+border: none;
+}
+#last .container{
+    max-width: 1170px;
+}
+
+#last .row{
+    padding-top: 50px;
+}
+#last input{
+    width: 370px;
+height: 50px;
+border-radius: 3px;
+background-color: #fff;
+border: 1px solid #373737;
+padding-left: 25px;
+position: absolute;
+top: 50px;
+}
+#last h1{
+    width: 216px;
+
+font-size: 20px;
+line-height: 35px;
+color: #474747;
+font-weight: 400;
+font-family: "Josefin Sans";
+}
+#last2{
+    font-size: 20px;
+line-height: 8px;
+color: #474747;
+font-weight: 400;
+font-family: "Josefin Sans";
+text-align: center;
+border: none;
+background-color: #ffff;
+position: absolute;
+top: 73px;
+right: 15px;
+}
+#last p{
+    width: 216px;
+
+font-size: 20px;
+line-height: 35px;
+color: #474747;
+font-weight: 400;
+font-family: "Josefin Sans";
+}
+#last h2{
+    width: 370px;
+
+font-size: 16px;
+line-height: 30px;
+color: #474747;
+font-weight: 400;
+font-family: "Josefin Sans";
+}
+#last3{
+    position: relative;
+}
+/* section last end */
+/* footer start */
+footer{
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+footer h5{
+    width: 1171px;
+height: 26px;
+font-size: 12px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+text-align: center;
+margin-left: 176px;
+}
+footer h6{
+    font-size: 16px;
+line-height: 30px;
+color: #474747;
+font-weight: 300;
+font-family: "Josefin Sans";
+text-align: center;
+margin-top: 50px;
+}
+/* footer end */

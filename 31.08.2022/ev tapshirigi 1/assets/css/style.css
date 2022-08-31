@@ -1,0 +1,41 @@
+.container{
+    
+    padding-top: 200px;
+    margin-bottom: 300px;
+}
+form{
+    position: relative;
+    
+}
+
+
+body{
+    background-image: url(../nature-3082832.jpg);
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.eye{
+    cursor: pointer;
+    position: absolute;
+    top: 59px;
+    right: 5px;
+}
+#hide2{
+    display: none;
+}
+.icon{
+    position: absolute;
+    top: 8px;
+    left: 6px;
+}
+.form-control{
+    padding-left: 26px;
+} 
+.icon1{
+    position: absolute;
+    top: 62px;
+    left: 7px;
+    
+}
